@@ -25,4 +25,3 @@ It includes SQL queries to check albums, artists, tracks, and other info.
 
 ---
 
-Made by: **Your Name**
